@@ -128,4 +128,13 @@ class Viaan:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=viaanbhola15-code&color=00F5FF&style=flat-square&label=VISITORS)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake-dark.svg"/>
+  </picture>
+</div>
+
+
 </div>
