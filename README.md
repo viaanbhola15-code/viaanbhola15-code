@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=220&text=VIAAN%20BHOLA&fontAlign=50&fontAlignY=55&fontSize=60&color=gradient&customColorList=0,2,2,5,30&fontColor=ffffff&stroke=00f5ff&strokeWidth=1.5&animation=fadeIn&desc=init%20viaan.bhola%20--%20mode%20unstoppable&descAlign=50&descAlignY=75&descSize=16)
+![banner](header.svg)
 
 </div>
 
@@ -117,8 +117,6 @@ class Viaan:
 -----
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&customColorList=0,2,2,5,30&section=footer&animation=fadeIn)
 
 ```
 > connection established.
