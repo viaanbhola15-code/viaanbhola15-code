@@ -1,6 +1,12 @@
 <div align="center">
 
-![banner](header.svg)
+![Matrix Rain](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=80&pause=2000&color=00FF41&center=true&vCenter=false&multiline=true&repeat=true&width=900&height=50&lines=ア+イ+ウ+エ+オ+カ+キ+ク+ケ+コ+1+0+サ+シ+ス+セ+ソ+タ+チ+ツ+テ+ト+ナ+ニ+ヌ+ネ+1+0+ハ+ヒ+フ+ヘ+ホ+マ+ミ+ム+メ+モ+1+ヤ+ユ+ヨ+ラ+リ+ル+レ+ロ+ワ+ン)
+
+![Name](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=68&duration=4000&pause=99999&color=FFFFFF&center=true&vCenter=true&width=900&height=110&lines=VIAAN+BHOLA&stroke=00F5FF&strokeWidth=1)
+
+![Subtitle](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=80&pause=2000&color=00FF41&center=true&vCenter=false&multiline=true&repeat=true&width=900&height=50&lines=ン+ヲ+1+0+ア+イ+ウ+エ+オ+カ+キ+ク+ケ+コ+サ+シ+ス+セ+ソ+タ+チ+ツ+テ+ト+1+0+ナ+ニ+ヌ+ネ+ハ+ヒ+フ+ヘ+ホ+マ+ミ+ム+メ+モ+ヤ+ユ+ヨ+ラ+リ+ル+レ+ロ+ワ)
+
+![Tagline](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=%3E+init+viaan.bhola+--mode+unstoppable)
 
 </div>
 
@@ -128,13 +134,10 @@ class Viaan:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=viaanbhola15-code&color=00F5FF&style=flat-square&label=VISITORS)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake-dark.svg"/>
-  </picture>
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/thehans-mwe/thehans-mwe/output/github-snake-dark.svg"/>
+</picture>
 
 </div>
